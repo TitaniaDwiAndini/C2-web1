@@ -14,3 +14,22 @@
     display: inline-block;
 }
 img {float: left;}
+.ijo {
+    width: 300px; height: 300px; background-color: limegreen;
+}
+.pink {
+    width:300px;height: 300px; background-color: salmon;
+    position: fixed;
+    /* top: 0; left :0; */
+    bottom: 0; right: 0;
+}
+.kuning {
+    width: 300px; height: 300px; background-color: gold;
+}
+.container {
+    width:85%;
+    height: 1800px;
+    border : 10pt solid black;
+    margin : 0 auto;
+    position: relative;
+}
